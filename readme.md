@@ -1,0 +1,1 @@
+My First Project of Pyhton For AI Track at AshreiTech at NASTP.
